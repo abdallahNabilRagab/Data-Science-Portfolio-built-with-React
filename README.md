@@ -1,23 +1,53 @@
-# AI & Data Science Portfolio ⚡️ [![GitHub](https://img.shields.io/github/license/abdallahNabilRagab/Data-Science-Portfolio-built-with-React?color=blue)](https://github.com/abdallahNabilRagab/Data-Science-Portfolio-built-with-React/blob/main/LICENSE)
+# AI & Data Science Portfolio ⚡️  
 
+[![License](https://img.shields.io/github/license/abdallahNabilRagab/Data-Science-Portfolio-built-with-React?color=blue)](https://github.com/abdallahNabilRagab/Data-Science-Portfolio-built-with-React/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/abdallahNabilRagab/Data-Science-Portfolio-built-with-React)](https://github.com/abdallahNabilRagab/Data-Science-Portfolio-built-with-React/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/abdallahNabilRagab/Data-Science-Portfolio-built-with-React)](https://github.com/abdallahNabilRagab/Data-Science-Portfolio-built-with-React/network)
 
-## A clean, beautiful and responsive portfolio template for Artificial Intelligence, Data Science & Machine Learning Engineer!
+## Personal AI & Data Science Portfolio  
+
+A modern, clean, and fully responsive portfolio built with **React.js** to showcase:
+
+- Artificial Intelligence Projects  
+- Machine Learning Models  
+- Deep Learning Applications  
+- Data Science & Analytics Work  
+- Research & Technical Achievements  
 
 <p align="center">
   <kbd>
-<img src="https://user-images.githubusercontent.com/53429438/106779355-e9cd9e80-666c-11eb-9417-8a4b54441bc6.gif"></img>
+    <img src="https://user-images.githubusercontent.com/53429438/106779355-e9cd9e80-666c-11eb-9417-8a4b54441bc6.gif" />
   </kbd>
 </p>
 
-Just change `src/portfolio.js` to get your personal AI & Data Science portfolio. Customize portfolio theme by using your own color scheme globally in the  `src/_globalColor.scss` file. Feel free to use it as-is or personalize it as much as you want.
+---
 
-If you'd like to **contribute** and make this much better for other users, have a look at [Issues](https://github.com/saadpasta/developerFolio/issues).
+## Customization Guide
 
-Created something awesome for your fork of the portfolio and want to share it? Feel free to open a [pull request](https://github.com/saadpasta/developerFolio/pulls).
+To personalize this portfolio:
+
+- Edit content inside:   
+
+
+- Modify global color theme from:  
+
+
+You can fully customize sections, projects, skills, social links, and achievements to match your professional profile.
 
 ---
 
+## Contributing
+
+If you would like to suggest improvements or enhancements, feel free to:
+
+- Open an issue:  
+https://github.com/abdallahNabilRagab/Data-Science-Portfolio-built-with-React/issues
+
+- Submit a pull request:  
+https://github.com/abdallahNabilRagab/Data-Science-Portfolio-built-with-React/pulls
+
+---
+ 
 ## Portfolio Owner
 
 **Abdullah Nabil**  
