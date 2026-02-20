@@ -1,4 +1,6 @@
-# AI & Data Science Portfolio ⚡️ [![GitHub](https://img.shields.io/github/license/saadpasta/developer-portfolio?color=blue)](https://github.com/saadpasta/developerFolio/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/saadpasta/developerFolio)](https://github.com/saadpasta/developerFolio/stargazers)  [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
+# AI & Data Science Portfolio ⚡️ [![GitHub](https://img.shields.io/github/license/abdallahNabilRagab/Data-Science-Portfolio-built-with-React?color=blue)](https://github.com/abdallahNabilRagab/Data-Science-Portfolio-built-with-React/blob/main/LICENSE)
+
+[![GitHub stars](https://img.shields.io/github/stars/abdallahNabilRagab/Data-Science-Portfolio-built-with-React)](https://github.com/abdallahNabilRagab/Data-Science-Portfolio-built-with-React/stargazers)
 
 ## A clean, beautiful and responsive portfolio template for Artificial Intelligence, Data Science & Machine Learning Engineer!
 
