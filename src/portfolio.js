@@ -26,7 +26,7 @@ const greeting = {
     "Data Scientist & Machine Learning Engineer 🚀 specializing in building data-driven solutions, predictive models, and intelligent recommendation systems. Passionate about transforming raw data into actionable insights and scalable ML applications."
   ),
   resumeLink:
-    "ضع_هنا_رابط_السيرة_الذاتية_PDF",
+    "https://drive.google.com/file/d/1fZhYIrI7Y0NWna1k8rAYI1JvckGmjWM0/view?usp=sharing",
   displayGreeting: true
 };
 
